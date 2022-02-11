@@ -24,8 +24,15 @@ Here are some ideas to get you started:
 Hi, I am Hiroaki Ueda!
 - 😄 I love watching movies.
 - ⚡ Fun fact: I am nicer when I am having a cup of coffee...
-<p align="left"> 
+<!-- <p align="left"> 
   <img alt="Top Langs" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-hey-jude&layout=compact&langs_count=8&hide=html,css&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=Hiroaki-hey-jude&layout=compact&langs_count=8&hide=html,css&&theme=onedark&show_icons=ture" />
+   -->
+  <a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hiroaki-hey-jude&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-hey-jude&layout=compact&theme=dracula" />
+</a>
 </p>
 
