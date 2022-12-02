@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroaki-hey-jude&layout=compact&langs_count=8&hide=html,css&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroaki-hey-jude&layout=compact&langs_count=8&hide=html,css&theme=onedark&show_icons=ture)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Hi, I am Hiroaki Ueda!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Hiroaki Ueda!
+=======================================================================================================================================
+
+Web and Mobile Developer
+------------------------
+
 - 👀 I’m learning Vue.js, Nuxt.js.
 - 🌱 I speak Japanese🇯🇵 x English🇺🇸.
 - 😄 I love listening to the Beatles.
