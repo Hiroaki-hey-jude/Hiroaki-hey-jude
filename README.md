@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Hi, I am Hiroaki Ueda!
 - 👀 I’m learning Vue.js, Nuxt.js.
-- 🌱 Speak Japanese x English.
+- 🌱 Speak Japanese🇯🇵 x English🇺🇸.
 - 😄 I love watching movies.
 - ⚡ Fun fact: I am nicer when I am having a cup of coffee...
 
