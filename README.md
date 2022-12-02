@@ -30,7 +30,7 @@ Hi, I am Hiroaki Ueda!
 自作タイマーゲーム（１分間ゲーム）:gift: [Play Store](https://apps.apple.com/jp/app/1%E5%88%86%E9%96%93%E3%82%B2%E3%83%BC%E3%83%A0/id6444773738)
 
 <a href="https://twitter.com/hirohiro_kabu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hirohiro_kabu?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/hirohiro_kabu?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"/></a>
                                                                                   
 ### Skills
 
@@ -51,8 +51,6 @@ src="https://img.shields.io/twitter/follow/hirohiro_kabu?logo=twitter&style=for-
   
 
 ### Badges
-
-<b>My GitHub Stats</b> 
  <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hiroaki-hey-jude&count_private=true&show_icons=true&theme=dracula" />
 </a>
