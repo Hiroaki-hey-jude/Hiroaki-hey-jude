@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 Hi, I am Hiroaki Ueda!
 - 👀 I’m learning Vue.js, Nuxt.js.
-- 🌱 Speak Japanese🇯🇵 x English🇺🇸.
-- 😄 I love watching movies.
+- 🌱 I speak Japanese🇯🇵 x English🇺🇸.
+- 😄 I love listening to the Beatles.
 - ⚡ Fun fact: I am nicer when I am having a cup of coffee...
 
 自作タイマーゲーム（１分間ゲーム）:gift: [Play Store](https://apps.apple.com/jp/app/1%E5%88%86%E9%96%93%E3%82%B2%E3%83%BC%E3%83%A0/id6444773738)
