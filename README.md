@@ -7,7 +7,7 @@ Web and Mobile Developer
 ------------------------
 
 - 👀 I’m learning Flutter.
-- 🌱 I speak Japanese🇯🇵 x English🇺🇸.
+- 🌱 I speak Japanese🇯🇵 x English🇬🇧🇺🇸.
 - 😄 I love listening to the Beatles.
 - ⚡ Fun fact: I am nicer when I am having a cup of coffee...
 
