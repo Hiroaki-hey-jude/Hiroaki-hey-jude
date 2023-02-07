@@ -8,7 +8,7 @@ Web and Mobile Developer
 
 - 👀 I’m learning Flutter.
 - 🌱 I speak Japanese🇯🇵 x English🇬🇧🇺🇸.
-- 😄 I love listening to the Beatles.
+- 😄 I love listening to music.
 - ⚡ Fun fact: I am nicer when I am having a cup of coffee...
 
 自作タイマーゲーム（１分間ゲーム)
